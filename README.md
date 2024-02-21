@@ -15,9 +15,9 @@ Follow these steps to install the necessary Python libraries:
 1. Open your terminal (Command Prompt, PowerShell, Terminal, etc.).
 2. Install the required Python packages using pip:
 
-    ```bash
-    pip install numpy matplotlib scipy
-    ```
+```bash
+pip install numpy matplotlib scipy
+```
 
 This will install NumPy (for numerical operations), Matplotlib (for plotting graphs), and SciPy (for scientific computations, if needed).
 
